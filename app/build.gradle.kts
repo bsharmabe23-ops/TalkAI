@@ -9,6 +9,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
+
         applicationId = "com.example.talkai"
         minSdk = 24
         targetSdk = 35
